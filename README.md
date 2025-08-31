@@ -1,2 +1,2 @@
 # Badging
-Badger
+Badges
