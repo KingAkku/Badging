@@ -3,7 +3,4 @@
 -hey hey hey
 -hey hey
 -hey my boys
-
-
--whys is this not working 
--yella habibi
+-whys is this not working
